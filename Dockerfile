@@ -5,7 +5,7 @@
 # Use ubuntu as a parent image
 FROM ubuntu:16.04
 
-MAINTAINER Hiroko Tanaka <htrokoroko@gmail.com>
+MAINTAINER Hiroko Tanaka <hirooko@hgc.jp>
 
 LABEL Description="samtools v.1.3.1 with htslib-1.3.1" \
       Project="Genomon-Project Dockerization" \
